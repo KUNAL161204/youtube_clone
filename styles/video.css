@@ -1,0 +1,107 @@
+.thumbnail{
+    width:400px ;
+    /* height: 150px; */
+    object-fit: contain;
+    /* border-color: red; */
+    border-style: solid;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    margin-right: 1px;
+
+}
+.pic1{
+    /* display: inline-block; */
+    margin-right: 0px;
+    width: 25%;
+    /* position: relative; */
+}
+.pic2{
+    display: inline-block;
+    width: 300px;
+    /* position: relative; */
+}
+body{
+    margin: 0;
+    /* padding-left: 102px; */
+}
+
+.main{
+    /* padding-top: -25px; */
+    padding-left: 120px;
+    padding-top: 20px;
+    background-color: rgba(239, 239, 239, 0.749);
+    /* margin-top: 0px; */
+}
+
+.search{
+    font-size: 20px;
+    
+}
+.video{
+    width: 300px;
+    cursor: pointer;
+    margin-bottom: 3px;
+    margin-top: 0px;
+
+    /* display: inline-block; */
+}
+
+.tick{
+    display: inline-block;
+    border-radius: 50%;
+    padding: 1px;
+    text-align: center;
+    margin-top: 0px;
+    cursor: pointer;
+    margin-bottom:0 ;
+    color: gray;
+    display: inline-block;
+}
+.views{
+    margin-top: 1px;
+    color: gray;
+    /* display: inline-block; */
+    
+}
+
+.hii{
+    border-radius: 500px;
+    width: 30px;
+    display: inline-block;
+}
+.kunal{
+    vertical-align: top;
+    width: 30px;
+    display: inline-block;
+}
+.singhal{
+    margin-top: 0px;
+    vertical-align: top;
+    width: 250px;
+    display: inline-block;
+}
+.hard{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.video-time{
+    background-color: black;
+    color: white;
+    position: absolute;
+    /* bottom: 0px; */
+    left: 355px;
+    border-radius: 5px;
+    bottom: 7px;
+    /* left: 100px; */
+    /* opacity: 0; */
+    
+}
+/* .video-time:hover
+{
+    opacity: 1;
+} */
+.thumbnail-row{
+    position: relative;
+}

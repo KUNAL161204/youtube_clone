@@ -1,0 +1,37 @@
+.sidebar{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    /* margin-top: 55px; */
+    /* padding-top: 55px; */
+    /* margin-left: 0; */
+    top: 55px;
+    background-color: white;
+    width: 102px;
+
+}
+.sidebar-link{
+    background-color: white;
+    height: 80px;
+    gap: 1px;
+    cursor: pointer;
+}
+
+.below-text{
+    margin-left: 20px;
+    margin-top: -40px;
+    font-size: 14px;
+}
+.size{
+    /* justify-content: center; */
+    margin-left: 20px;
+    height: 80px;
+    width: 40px;
+    margin-top: 25px;
+
+}
+
+.sidebar-link:hover{
+    background-color: lightgray;
+    
+}
